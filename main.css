@@ -1,0 +1,18 @@
+/* Escribe aqui tu CSS */
+.a{
+	border: 10px solid yellow;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	padding: 10px 20px 10px 20px;
+}
+.b{
+	border: 10px solid yellow;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	padding: 10px 20px 10px 20px;
+	float: right;
+	margin: 200px 200px 200px 30px;
